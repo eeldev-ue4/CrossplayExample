@@ -11,30 +11,15 @@
 		},
 		{
 			"Name": "OnlineSubsystemSteam",
-			"Enabled": false
+			"Enabled": true
 		},
 		{
 			"Name": "SteamSockets",
-			"Enabled": false
+			"Enabled": true
 		},
 		{
 			"Name": "SteamShared",
-			"Enabled": false
-		},
-		{
-			"Name": "EOSCore",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/af157f773f084ca89036cd7bc03fb416"
-		},
-		{
-			"Name": "SteamCorePro",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/459e1c72939b4ead8b5132187808a3e7"
-		},
-		{
-			"Name": "GraphPrinter",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/466303b6cd724968b3ee0a1a1b623f4b"
+			"Enabled": true
 		}
 	]
 }
